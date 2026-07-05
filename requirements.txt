@@ -1,3 +1,4 @@
 requests
 flask
-twelvedata
+yfinance
+pandas
